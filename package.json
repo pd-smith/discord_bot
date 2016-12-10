@@ -1,0 +1,15 @@
+{
+  "name": "discordbot",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"Error: build not set up\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pd-smith/discord_bot.git"
+  },
+  "author": "Patrick Smith",
+  "license": "ISC"
+}
