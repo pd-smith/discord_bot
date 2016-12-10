@@ -1,0 +1,5 @@
+.cache/
+alias/
+versions/
+node_modules/
+dist/
